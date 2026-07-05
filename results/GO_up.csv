@@ -1,0 +1,60 @@
+"term_name","p_value","intersection_size","term_size"
+"defense response",2.00832912749813e-11,22,920
+"response to external stimulus",2.32591782280491e-10,24,1303
+"response to bacterium",8.37325273082859e-09,13,290
+"extracellular space",1.57489450918226e-08,19,974
+"extracellular region",2.05626569092687e-08,22,1408
+"response to other organism",1.63170098068171e-07,17,762
+"response to external biotic stimulus",1.66546568104683e-07,17,763
+"defense response to bacterium",2.06183466920456e-07,9,118
+"response to biotic stimulus",2.92037708461852e-07,17,791
+"Cytokine-cytokine receptor interaction",1.01475092894784e-06,9,187
+"biological process involved in interspecies interaction between organisms",1.04595891126402e-06,17,859
+"antimicrobial humoral response",1.18057751018498e-06,6,32
+"response to stress",1.31355118637617e-06,26,2327
+"chemokine receptor binding",1.55544999335848e-06,6,39
+"antimicrobial humoral immune response mediated by antimicrobial peptide",7.09448475129433e-06,5,20
+"cytokine activity",8.72724059201718e-06,8,138
+"immune response",3.12384354407166e-05,17,1075
+"Immune System",3.48005826482261e-05,13,410
+"cytokine receptor binding",3.68946149829173e-05,8,166
+"humoral immune response",4.08678782162148e-05,7,97
+"receptor ligand activity",9.93185857693275e-05,10,348
+"signaling receptor activator activity",0.000113329957115973,10,353
+"cell chemotaxis",0.000162619061260235,8,179
+"signaling receptor regulator activity",0.000166346722196575,10,368
+"CXCR chemokine receptor binding",0.000328535922525627,3,6
+"defense response to other organism",0.000495806775846992,11,482
+"Antimicrobial peptides",0.000517108614723165,4,15
+"cellular response to lipopolysaccharide",0.000574925541433311,6,87
+"chemokine activity",0.000640706300191703,4,25
+"cellular response to molecule of bacterial origin",0.000751483682870321,6,91
+"inflammatory response",0.00153747979379981,10,429
+"cellular response to biotic stimulus",0.00175315737098949,6,105
+"immune system process",0.00203378085496011,18,1610
+"regulation of defense response",0.00209944042426392,10,444
+"chemotaxis",0.00286283127594193,8,261
+"taxis",0.00303085803055633,8,263
+"defense response to symbiont",0.00364197139664381,10,472
+"NOD-like receptor signaling pathway",0.00442029349753729,5,122
+"regulation of response to external stimulus",0.00542455337818028,11,615
+"Influenza A",0.00597065183815167,5,130
+"response to lipopolysaccharide",0.0072827057467753,6,134
+"defense response to Gram-positive bacterium",0.00966603934899762,4,37
+"response to molecule of bacterial origin",0.0097724493153629,6,141
+"G protein-coupled receptor binding",0.0130839291189909,6,177
+"neutrophil chemotaxis",0.0132795964950298,4,40
+"molecular function activator activity",0.0230684587426807,11,782
+"cell migration",0.0245226528157276,13,1020
+"response to stimulus",0.0265939347535256,34,5986
+"Chemokine receptors bind chemokines",0.0282503898865274,3,15
+"membrane destabilizing activity",0.0299452029816267,2,4
+"Matrix metalloproteinases",0.0305921070923345,2,18
+"signaling receptor binding",0.0339177967451321,11,816
+"cell activation",0.0411116294885593,10,622
+"neutrophil migration",0.044437771251727,4,54
+"granulocyte chemotaxis",0.044437771251727,4,54
+"myeloid leukocyte activation",0.0449666585192546,5,110
+"locomotion",0.0470092724881029,11,773
+"negative regulation of T-helper 1 type immune response",0.0492577935453741,2,3
+"gga-mir-128-1-5p",0.049975012493753,1,1
